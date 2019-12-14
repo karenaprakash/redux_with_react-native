@@ -20,7 +20,7 @@ Android :
 
 IOS : refer feacbook document 
 
-### if you have react-native setup then 
+## Step 2 : if you have react-native setup then 
 
 do : git clone https://github.com/karenaprakash/redux_with_react-native.git
 
