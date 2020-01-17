@@ -41,4 +41,6 @@ react-native run-android
 go to src/Container/AppContaier and you can see we are using action here which return type and payload which handle by our reducer in src/Reducers/productReducer and update our store which is in src/Store/store.js.
 
 
+# If you like my project then hit the star button
+
 :) have a greate coading
